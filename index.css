@@ -1,0 +1,137 @@
+.Navigation_bar {
+   border: 2px solid;
+   padding: 12px;
+   margin-top: 20px;
+   margin-left: 5px;
+   margin-right: 5px;
+   display: flex;
+   justify-content: space-between;
+   flex-direction: row-reverse;
+   background-color: #696969;
+}
+#Moarefi {
+border: solid;
+padding: 4px 20px 4px 20px;
+background: whitesmoke;
+}
+#Khabarname {
+    border: solid;
+    padding: 4px 20px 4px 20px;
+    background: whitesmoke;
+}
+#firststep {
+    border: solid;
+    padding: 4px 20px 4px 20px;
+    background: whitesmoke;
+}
+#secondstep {
+    border: solid;
+    padding: 4px 20px 4px 20px;
+    background: whitesmoke;
+}
+.Introduction {
+    color: blue;
+    border: 2px solid;
+    margin-top: 20px;
+    margin-left: 1000px;
+    margin-right: 5px;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: end;
+}
+#Moarefi_2 {
+    margin-right: 5px;
+    padding: 4px 20px 4px 20px;
+}
+#Moarefi_Web {
+    display: flex;
+    justify-content: end;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.paragraph {
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: solid;
+    padding: 20px 20px 0px 20px;
+    display: flex;
+   flex-direction: column;
+
+}
+.image {
+    margin: 50px 200px 20px 200px ;
+}
+#amoozesh_aali {
+    display: flex;
+    justify-content: end;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#forsat_shoghli {
+    display: flex;
+    justify-content: end;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#Ozviat_dar_Khabarname {
+    display: flex;
+    justify-content: end;
+}
+#P2-1 {
+    display: flex;
+    justify-content: end;
+}
+.fieldset {
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.form_part {
+    display: flex;
+    justify-content: center;
+}
+#name {
+    display: flex;
+    flex-direction: column;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#gam_aval {
+display: flex;
+justify-content:end ;
+margin-top: 50px;
+}
+#list {
+display: flex;
+justify-content: end;
+flex-direction: row-reverse;
+}
+.daad {
+    border: solid;
+    padding: 15px;
+}
+.hochschulkompass {
+    border: solid;
+    padding: 15px;
+    margin-top: 20px;
+}
+#websites {
+    display: flex;
+    justify-content: center;
+}
+#daad_pic {
+    margin-left: 110px;
+}
+#kompass_pic {
+    margin-left: 370px;
+}
+.page_4 {
+    border: solid;
+    margin: 20px 5px 0 5px;
+    padding: 15px;
+}
